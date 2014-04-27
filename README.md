@@ -1,14 +1,13 @@
-=======
 yama
-====
+==============
+
 yet another mail app - a work in progres
 
 syncs a local db (probably couchdb) instance with an email inbox (imap)
 i.e., enables a local RESTful interface to plain remote email with
 a powerful database to use for fun things later.
 
----
-install:
+installation:
 ---
 ```bash
 $ virtualenv --no-site-packages --distribute -pPython2.7 venv
@@ -17,7 +16,6 @@ $ pip install git+https://github.com/balsagoth/imbox
 $ pip install -r requirements.txt
 ```
 
----
 usage:
 ---
 ```bash
