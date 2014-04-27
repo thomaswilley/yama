@@ -1,7 +1,7 @@
 yama
 ==============
 
-yet another mail app - a work in progres
+yet another mail app - a work in progress
 
 syncs couchdb instance with an email inbox (imap)
 i.e., enables a local RESTful interface to your email with
