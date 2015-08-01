@@ -38,12 +38,12 @@ Useful local urls:
 * /messages_<SHA1HASH>/<id of doc>: GETs the doc (email) with the given
   id
 
-## Author
+## author
 
-**Thomas Willey**
+Thomas Willey
 - <https://github.com/thomaswilley>
 - <https://twitter.com/thomaswilley>
 
-## License
+## license
 
 Open sourced under the [MIT license](LICENSE).
