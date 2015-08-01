@@ -7,7 +7,7 @@ yama syncs couchdb instance with an email inbox (imap)
 i.e., enables a local RESTful interface to your email with
 a powerful database to use for fun things later.
 
-installation:
+installation
 ---
 ```bash
 $ virtualenv --no-site-packages --distribute -pPython2.7 venv
@@ -16,7 +16,7 @@ $ pip install git+https://github.com/balsagoth/imbox
 $ pip install -r requirements.txt
 ```
 
-usage:
+usage
 ---
 ```bash
 $ couchdb
