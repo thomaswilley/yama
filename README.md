@@ -37,3 +37,13 @@ Useful local urls:
   database
 * /messages_<SHA1HASH>/<id of doc>: GETs the doc (email) with the given
   id
+
+## Author
+
+**Thomas Willey**
+- <https://github.com/thomaswilley>
+- <https://twitter.com/thomaswilley>
+
+## License
+
+Open sourced under the [MIT license](LICENSE).
